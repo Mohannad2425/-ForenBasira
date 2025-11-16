@@ -1,0 +1,5 @@
+tk
+requests
+hashlib
+psutil
+python-dotenv
