@@ -1,0 +1,37 @@
+{
+  "environment": "ForenBasira Lab",
+  "vms": [
+    {
+      "id": "vm1",
+      "name": "Win7-Target",
+      "ip": "192.168.56.101",
+      "os": "Windows 7",
+      "role": "Monitored Endpoint",
+      "admin": "Administrator",
+      "collector_script": "scripts/CollectData.ps1"
+    },
+    {
+      "id": "vm2",
+      "name": "Kali-RedTeam",
+      "ip": "192.168.56.102",
+      "os": "Kali Linux",
+      "role": "Attacker Simulation",
+      "user": "root"
+    }
+  ],
+  "splunk": {
+    "url": "https://localhost:8089",
+    "username": "admin",
+    "password": "changeme",
+    "alert_webhook": "http://localhost:5000/alert"
+  },
+  "response": {
+    "block_ip_script": "scripts/block_ip.ps1",
+    "isolate_vm_script": "scripts/isolate_vm.ps1"
+  },
+  "api_keys": {
+    "gemini": "YOUR_GEMINI_KEY",
+    "virustotal": "YOUR_VT_KEY",
+    "abuseipdb": "YOUR_ABUSEIPDB_KEY"
+  }
+}
