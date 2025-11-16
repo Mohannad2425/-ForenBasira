@@ -1,0 +1,50 @@
+2025-05-13 23:27:06,090 - ERROR - RunningProcesses.csv is empty or not loaded correctly.
+2025-05-13 23:30:02,416 - ERROR - Error during analysis: 'CPU'
+2025-05-13 23:32:35,156 - INFO - Suspicious startup entry detected: BingSvc (HKCU:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-05-13 23:32:35,874 - INFO - Suspicious startup entry detected: Discord (HKCU:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-05-13 23:32:38,120 - INFO - Suspicious startup entry detected: UninstallT20 (HKCU:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-05-13 23:32:38,851 - INFO - Suspicious startup entry detected: ZoogVPN (HKCU:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-05-13 23:32:52,039 - ERROR - Error processing row 0: 'NoneType' object has no attribute 'strip'
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,204 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,225 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,225 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,225 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,225 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,232 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,232 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,234 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,234 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,234 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,238 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,238 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,238 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,238 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,254 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:26,254 - WARNING - Analysis error: name 'is_random_name' is not defined
+2025-05-13 23:38:37,763 - ERROR - Error during analysis: 'CybersecurityAnalyzerApp' object has no attribute 'display_list_of_dicts_as_table'
+2025-05-13 23:38:43,669 - ERROR - Error during analysis: main thread is not in main loop
+2025-05-13 23:41:33,423 - ERROR - Error during analysis: main thread is not in main loop
+2025-05-13 23:43:06,179 - ERROR - Error during analysis: main thread is not in main loop
+2025-05-13 23:46:31,582 - ERROR - Error during analysis: main thread is not in main loop
+2025-05-13 23:49:00,607 - ERROR - Error during analysis: 'CybersecurityAnalyzerApp' object has no attribute 'table_data'
+2025-05-13 23:49:38,644 - ERROR - Error during analysis: 'CybersecurityAnalyzerApp' object has no attribute 'table_data'
+2025-05-13 23:50:20,870 - ERROR - Error during analysis: main thread is not in main loop
+2025-07-15 17:18:02,948 - INFO - Suspicious startup entry detected: FileZilla Server (HKLM:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-07-15 17:18:19,468 - INFO - Suspicious startup entry detected: RtkAudUService (HKLM:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-07-15 17:18:20,590 - ERROR - Error during analysis: invalid command name ".!notebook.!frame3.!frame2.!scrolledtext.!treeview5"
+2025-07-15 17:18:39,674 - INFO - Suspicious startup entry detected: BingSvc (HKCU:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-07-15 17:32:49,392 - INFO - Suspicious startup entry detected: FileZilla Server (HKLM:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-07-15 17:32:51,293 - INFO - Suspicious startup entry detected: RtkAudUService (HKLM:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-07-15 17:33:03,346 - INFO - Suspicious startup entry detected: BingSvc (HKCU:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-07-15 17:33:04,958 - INFO - Suspicious startup entry detected: Discord (HKCU:\Software\Microsoft\Windows\CurrentVersion\Run)
+2025-07-15 17:33:42,163 - ERROR - Error processing row 0: 'NoneType' object has no attribute 'strip'
