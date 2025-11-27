@@ -20,6 +20,13 @@ import ipaddress
 import threading
 
 
+#API_KEYS = []
+
+#Gemini_Key = []
+
+
+
+
 INPUT_DIR = "C:\\InvestigationData"
 
 
